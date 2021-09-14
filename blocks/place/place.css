@@ -5,6 +5,7 @@
 @import url(__title/place__title.css);
 @import url(__url-heading/place__url-heading.css);
 @import url(__website/place__website.css);
+
 .place {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(460px 1fr));
