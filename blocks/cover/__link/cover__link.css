@@ -10,6 +10,7 @@
     background-size: cover;
     text-decoration: none;
     position: relative;
+    background-position: center center;
 }
   
 .cover__link::after {
